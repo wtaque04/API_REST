@@ -1,4 +1,3 @@
-# API_REST
 Pruebas de API con Postman y Newman
 =======
 Prueba Técnica API REST (Postman + Newman)
